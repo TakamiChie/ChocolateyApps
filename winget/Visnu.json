@@ -1,0 +1,215 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2022-01-24T13:16:58.854-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Canva.Canva"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Audacity.Audacity"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.1804"
+				},
+				{
+					"PackageIdentifier" : "DeepL.DeepL"
+				},
+				{
+					"PackageIdentifier" : "Foxit.FoxitReader"
+				},
+				{
+					"PackageIdentifier" : "ArtifexSoftware.GhostScript"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "ImageMagick.ImageMagick"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "Mp3tag.Mp3tag"
+				},
+				{
+					"PackageIdentifier" : "OBSProject.OBSStudio"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Rufus.Rufus"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Toggl.TogglDesktop"
+				},
+				{
+					"PackageIdentifier" : "GnuWin32.Wget"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "Lazarus.Lazarus"
+				},
+				{
+					"PackageIdentifier" : "Fenrirthviti.obs-virtual-cam"
+				},
+				{
+					"PackageIdentifier" : "Vysor.Vysor"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "wkhtmltopdf.wkhtmltox"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitLFS"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "Inkscape.Inkscape"
+				},
+				{
+					"PackageIdentifier" : "ojdkbuild.ojdkbuild"
+				},
+				{
+					"PackageIdentifier" : "Datronicsoft.SpacedeskDriver.Server"
+				},
+				{
+					"PackageIdentifier" : "gerardog.gsudo"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
+				},
+				{
+					"PackageIdentifier" : "Learnpulse.Screenpresso"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Pushbullet.Pushbullet"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Cisco.CiscoWebexMeetings"
+				},
+				{
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
+					"PackageIdentifier" : "JohnMacFarlane.Pandoc"
+				},
+				{
+					"PackageIdentifier" : "ClockworkMod.UniversalADBDriver"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Kuro.Mery"
+				},
+				{
+					"PackageIdentifier" : "ActiveState.ActivePerl"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.GitCredentialManagerCore"
+				},
+				{
+					"PackageIdentifier" : "RubyInstallerTeam.Ruby"
+				},
+				{
+					"PackageIdentifier" : "JRSoftware.InnoSetup"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Office"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
+				},
+				{
+					"PackageIdentifier" : "OpenShot.OpenShot"
+				},
+				{
+					"PackageIdentifier" : "HermannSchinagl.LinkShellExtension"
+				},
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "9PGCV4V3BK4W"
+				},
+				{
+					"PackageIdentifier" : "9P7QFQMJRFP7"
+				},
+				{
+					"PackageIdentifier" : "9P7QFQMJRFP7"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.2.3411-preview"
+}
