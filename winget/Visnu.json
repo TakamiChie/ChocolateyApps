@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-01-24T13:16:58.854-00:00",
+	"CreationDate" : "2022-02-18T02:24:35.104-00:00",
 	"Sources" : 
 	[
 		{
@@ -37,6 +37,9 @@
 					"PackageIdentifier" : "ImageMagick.ImageMagick"
 				},
 				{
+					"PackageIdentifier" : "Logitech.Options"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
@@ -56,6 +59,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "RubyInstallerTeam.Ruby"
 				},
 				{
 					"PackageIdentifier" : "Rufus.Rufus"
@@ -89,6 +95,9 @@
 				},
 				{
 					"PackageIdentifier" : "wkhtmltopdf.wkhtmltox"
+				},
+				{
+					"PackageIdentifier" : "EmoteInteractive.RemoteMouse"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
@@ -139,6 +148,9 @@
 					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
 				},
 				{
+					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
+				},
+				{
 					"PackageIdentifier" : "Cisco.CiscoWebexMeetings"
 				},
 				{
@@ -151,9 +163,6 @@
 					"PackageIdentifier" : "ClockworkMod.UniversalADBDriver"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
-				},
-				{
 					"PackageIdentifier" : "Kuro.Mery"
 				},
 				{
@@ -163,7 +172,10 @@
 					"PackageIdentifier" : "Microsoft.GitCredentialManagerCore"
 				},
 				{
-					"PackageIdentifier" : "RubyInstallerTeam.Ruby"
+					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "JRSoftware.InnoSetup"
@@ -179,7 +191,7 @@
 				},
 				{
 					"PackageIdentifier" : "HermannSchinagl.LinkShellExtension"
-				},
+				}
 			],
 			"SourceDetails" : 
 			{
@@ -194,6 +206,12 @@
 			[
 				{
 					"PackageIdentifier" : "9PGCV4V3BK4W"
+				},
+				{
+					"PackageIdentifier" : "9P6RC76MSMMJ"
+				},
+				{
+					"PackageIdentifier" : "XP8K4RGX25G3GM"
 				},
 				{
 					"PackageIdentifier" : "9P7QFQMJRFP7"
