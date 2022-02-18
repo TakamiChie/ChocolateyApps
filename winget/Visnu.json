@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-02-18T02:24:35.104-00:00",
+	"CreationDate" : "2022-02-18T15:27:07.726-00:00",
 	"Sources" : 
 	[
 		{
@@ -122,6 +122,9 @@
 				},
 				{
 					"PackageIdentifier" : "ojdkbuild.ojdkbuild"
+				},
+				{
+					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
 				},
 				{
 					"PackageIdentifier" : "Datronicsoft.SpacedeskDriver.Server"
