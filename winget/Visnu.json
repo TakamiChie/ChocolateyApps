@@ -194,6 +194,12 @@
 				},
 				{
 					"PackageIdentifier" : "HermannSchinagl.LinkShellExtension"
+				},
+				{
+					"PackageIdentifier": "OtterBrowserTeam.OtterBrowser"
+				},
+				{
+					"PackageIdentifier": "OlegDanilov.RapidEnvironmentEditor"
 				}
 			],
 			"SourceDetails" : 
@@ -221,6 +227,18 @@
 				},
 				{
 					"PackageIdentifier" : "9P7QFQMJRFP7"
+				},
+				{
+					"PackageIdentifier": "9NBHCS1LX4R0"
+				},
+				{
+					"PackageIdentifier": "XP9CRZQDCJ0CC6"
+				},
+				{
+					"PackageIdentifier": "9WZDNCRFJ2G6"
+				},
+				{
+					"PackageIdentifier": "9NBLGGH5Z8F3"
 				}
 			],
 			"SourceDetails" : 
