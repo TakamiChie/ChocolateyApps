@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-03-09T09:56:25.643-00:00",
+	"CreationDate" : "2023-07-07T19:43:35.325-00:00",
 	"Sources" : 
 	[
 		{
@@ -19,10 +19,10 @@
 					"PackageIdentifier" : "Canonical.Ubuntu.1804"
 				},
 				{
-					"PackageIdentifier" : "DeepL.DeepL"
+					"PackageIdentifier" : "Canonical.Ubuntu.2204"
 				},
 				{
-					"PackageIdentifier" : "Foxit.FoxitReader"
+					"PackageIdentifier" : "Foxit.PhantomPDF"
 				},
 				{
 					"PackageIdentifier" : "ArtifexSoftware.GhostScript"
@@ -37,7 +37,16 @@
 					"PackageIdentifier" : "ImageMagick.ImageMagick"
 				},
 				{
+					"PackageIdentifier" : "Logitech.LogiBolt"
+				},
+				{
+					"PackageIdentifier" : "Logitech.LogiTune"
+				},
+				{
 					"PackageIdentifier" : "Logitech.Options"
+				},
+				{
+					"PackageIdentifier" : "Logitech.OptionsPlus"
 				},
 				{
 					"PackageIdentifier" : "Logitech.UnifyingSoftware"
@@ -61,7 +70,10 @@
 					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
-					"PackageIdentifier" : "RubyInstallerTeam.Ruby"
+					"PackageIdentifier" : "RubyInstallerTeam.Ruby.3.1"
+				},
+				{
+					"PackageIdentifier" : "Piriform.Recuva"
 				},
 				{
 					"PackageIdentifier" : "Rufus.Rufus"
@@ -73,7 +85,7 @@
 					"PackageIdentifier" : "Microsoft.Teams"
 				},
 				{
-					"PackageIdentifier" : "Toggl.TogglDesktop"
+					"PackageIdentifier" : "Toggl.TogglTrack"
 				},
 				{
 					"PackageIdentifier" : "GnuWin32.Wget"
@@ -88,9 +100,6 @@
 					"PackageIdentifier" : "Lazarus.Lazarus"
 				},
 				{
-					"PackageIdentifier" : "Fenrirthviti.obs-virtual-cam"
-				},
-				{
 					"PackageIdentifier" : "Vysor.Vysor"
 				},
 				{
@@ -103,7 +112,7 @@
 					"PackageIdentifier" : "EmoteInteractive.RemoteMouse"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2013Redist-x64"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
@@ -112,22 +121,16 @@
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier" : "VideoLAN.VLC"
-				},
-				{
 					"PackageIdentifier" : "GitHub.GitLFS"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
 					"PackageIdentifier" : "Chocolatey.ChocolateyGUI"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
-				},
-				{
-					"PackageIdentifier" : "Cisco.CiscoWebexMeetings"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
 					"PackageIdentifier" : "DBBrowserForSQLite.DBBrowserForSQLite"
@@ -139,7 +142,7 @@
 					"PackageIdentifier" : "Inkscape.Inkscape"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.dotnetRuntime.3-x64"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "JohnMacFarlane.Pandoc"
@@ -184,13 +187,13 @@
 					"PackageIdentifier" : "Microsoft.GitCredentialManagerCore"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x64"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.VC++2013Redist-x86"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				},
 				{
 					"PackageIdentifier" : "Learnpulse.Screenpresso"
@@ -215,11 +218,53 @@
 				},
 				{
 					"PackageIdentifier": "OlegDanilov.RapidEnvironmentEditor"
+				},
+				{
+					"PackageIdentifier" : "BrianApps.Sizer"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.10"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier" : "Google.NearbyShare"
+				},
+				{
+					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22621"
+				},
+				{
+					"PackageIdentifier" : "dotPDNLLC.paintdotnet"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.BuildTools"
+				},
+				{
+					"PackageIdentifier" : "Rustlang.Rustup"
+				},
+				{
+					"PackageIdentifier" : "Wacom.WacomTabletDriver"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DevHome"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
+				},
+				{
+					"PackageIdentifier" : "Discord.Discord"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
 				}
 			],
 			"SourceDetails" : 
 			{
-				"Argument" : "https://winget.azureedge.net/cache",
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
 				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
 				"Name" : "winget",
 				"Type" : "Microsoft.PreIndexed.Package"
@@ -229,28 +274,19 @@
 			"Packages" : 
 			[
 				{
+					"PackageIdentifier" : "9NSBB9XTJW86"
+				},
+				{
 					"PackageIdentifier" : "9PGCV4V3BK4W"
 				},
 				{
 					"PackageIdentifier" : "9P6RC76MSMMJ"
 				},
 				{
-					"PackageIdentifier" : "XP8K4RGX25G3GM"
-				},
-				{
-					"PackageIdentifier" : "9NBLGGH5Z8F3"
-				},
-				{
 					"PackageIdentifier" : "9WZDNCRFJ2G6"
 				},
 				{
-					"PackageIdentifier" : "9P7QFQMJRFP7"
-				},
-				{
-					"PackageIdentifier" : "9NBHCS1LX4R0"
-				},
-				{
-					"PackageIdentifier": "XP9CRZQDCJ0CC6"
+					"PackageIdentifier" : "XP9CRZQDCJ0CC6"
 				}
 			],
 			"SourceDetails" : 
@@ -262,5 +298,5 @@
 			}
 		}
 	],
-	"WinGetVersion" : "1.2.3411-preview"
+	"WinGetVersion" : "1.6.1573-preview"
 }
